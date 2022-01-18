@@ -1,5 +1,3 @@
-import React from 'react'
-
 function Logger(reducer) {
     return (prevState, action) => {
 
